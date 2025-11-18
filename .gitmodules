@@ -1,0 +1,3 @@
+[submodule "Neural_Network_Architectures/seminars"]
+	path = Neural_Network_Architectures/seminars
+	url = https://github.com/physicorym/designing_neural_network_architectures_2025_01.git
