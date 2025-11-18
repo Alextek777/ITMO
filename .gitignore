@@ -1,0 +1,8 @@
+**/.git*
+
+**/venv*
+**.idea
+# Auto-ignored nested Git repositories - Tue Nov 18 08:05:41 PM MSK 2025
+Creating_And_Training_Models/comfyUI/ComfyUI
+Creating_And_Training_Models/comfyUI/ComfyUI/custom_nodes/ComfyUI-Manager
+Neural_Network_Architectures/seminars
