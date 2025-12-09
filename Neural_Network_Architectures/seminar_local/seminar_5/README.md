@@ -1,4 +1,4 @@
-[ClearML](https://app.clear.ml/applications) - tool to visualize learning process on dashboards
+[clearML](https://app.clear.ml/applications) - tool to visualize learning process on dashboards
 
 [cvat](https://app.cvat.ai/requests?page=1&pageSize=10) - tool to mark datasets
 
