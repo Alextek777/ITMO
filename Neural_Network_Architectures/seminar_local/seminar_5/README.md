@@ -1,8 +1,12 @@
-[ClearML](https://app.clear.ml/applications)
-ultralitycs
+[ClearML](https://app.clear.ml/applications) - tool to visualize learning process on dashboards
+
+[cvat](https://app.cvat.ai/requests?page=1&pageSize=10) - tool to mark datasets
+
+[ultralitycs git](https://github.com/ultralytics/ultralytics)
+[ultralitycs web](https://www.ultralytics.com/yolo) - framework CV tools to train models using data.yaml from cli without any code
 
 ```sh
-yolo train detect model=yolov8n.pt data='parking_test/data.yaml' epochs=10 
+yolo train detect model=yolov8n.pt data='parking_test/data.yaml' epochs=70 
 ```
 
 ```sh
