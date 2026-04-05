@@ -3,3 +3,8 @@
 **/venv*
 **.idea
 *.pth
+# Auto-ignored nested Git repositories - Sun Apr  5 01:04:31 PM MSK 2026
+Creating_And_Training_Models/comfyUI/ComfyUI
+Creating_And_Training_Models/comfyUI/ComfyUI/custom_nodes/ComfyUI-Manager
+Neural_Network_Architectures/project
+Neural_Network_Architectures/seminars
