@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ':*)",
+      "Bash(python3 -W ignore -c ':*)",
+      "Bash(nvidia-smi)",
+      "Bash(nvcc --version)",
+      "Bash(python3 -c \"import tensorflow as tf; print\\('TF:', tf.__version__\\); print\\('GPU:', tf.config.list_physical_devices\\('GPU'\\)\\)\")",
+      "Read(//usr/lib/**)",
+      "Bash(dpkg -l)"
+    ]
+  }
+}
